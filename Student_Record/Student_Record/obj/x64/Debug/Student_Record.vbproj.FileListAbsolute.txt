@@ -1,0 +1,17 @@
+C:\Users\johnp\Desktop\Student_Record\Student_Record\Student_Record\bin\x64\Debug\Student_Record.exe.config
+C:\Users\johnp\Desktop\Student_Record\Student_Record\Student_Record\bin\x64\Debug\Student_Record.exe
+C:\Users\johnp\Desktop\Student_Record\Student_Record\Student_Record\bin\x64\Debug\Student_Record.pdb
+C:\Users\johnp\Desktop\Student_Record\Student_Record\Student_Record\bin\x64\Debug\Student_Record.xml
+C:\Users\johnp\Desktop\Student_Record\Student_Record\Student_Record\obj\x64\Debug\Student_Record.vbproj.AssemblyReference.cache
+C:\Users\johnp\Desktop\Student_Record\Student_Record\Student_Record\obj\x64\Debug\Student_Record.vbproj.SuggestedBindingRedirects.cache
+C:\Users\johnp\Desktop\Student_Record\Student_Record\Student_Record\obj\x64\Debug\Student_Record.AdminGridView.resources
+C:\Users\johnp\Desktop\Student_Record\Student_Record\Student_Record\obj\x64\Debug\Student_Record.studentAccount.resources
+C:\Users\johnp\Desktop\Student_Record\Student_Record\Student_Record\obj\x64\Debug\Student_Record.studRegForm.resources
+C:\Users\johnp\Desktop\Student_Record\Student_Record\Student_Record\obj\x64\Debug\Student_Record.loginform.resources
+C:\Users\johnp\Desktop\Student_Record\Student_Record\Student_Record\obj\x64\Debug\Student_Record.Resources.resources
+C:\Users\johnp\Desktop\Student_Record\Student_Record\Student_Record\obj\x64\Debug\Student_Record.vbproj.GenerateResource.cache
+C:\Users\johnp\Desktop\Student_Record\Student_Record\Student_Record\obj\x64\Debug\Student_Record.vbproj.CoreCompileInputs.cache
+C:\Users\johnp\Desktop\Student_Record\Student_Record\Student_Record\obj\x64\Debug\Student_Record.exe
+C:\Users\johnp\Desktop\Student_Record\Student_Record\Student_Record\obj\x64\Debug\Student_Record.xml
+C:\Users\johnp\Desktop\Student_Record\Student_Record\Student_Record\obj\x64\Debug\Student_Record.pdb
+C:\Users\johnp\Desktop\Student_Record\Student_Record\Student_Record\obj\x64\Debug\Student_Record.Registrar.resources
